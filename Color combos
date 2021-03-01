@@ -31,3 +31,6 @@ echo.[40;31mRed [40;32mGreen [40;33mYellow [40;34mBlue [40;35mMagenta [40;
 echo.[41;37m  [42;37m  [43;37m  [44;37m  [45;37m  [46;37m  [47;37m  
 echo.[47;37m  [46;37m  [45;37m  [44;37m  [43;37m  [42;37m  [41;37m  
 pause >nul
+
+or type
+color sdf in the command prompt
